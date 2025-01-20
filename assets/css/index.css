@@ -125,3 +125,30 @@ footer svg {
     height: 2vw;
     width: auto;
 }
+
+.mobile {
+    display: none;
+}
+
+@media (max-width: 800px) {
+.desktop {
+    display: none;
+}
+
+.mobile {
+    display: block;
+}
+
+header {
+    font-size: calc(1.22vw * 4 );    width: 100vw;
+}
+
+footer svg {
+    height: 8vw;
+    width: auto;
+}
+
+.animation-wrapper {
+    height: 100svh;
+}
+}

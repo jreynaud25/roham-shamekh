@@ -1,6 +1,6 @@
 @font-face {
     font-family: "KMR Waldenburg";
-    src: url("../fonts/RhymesTextTrial-Regular.otf") format("opentype");
+    src: url("/assets/fonts/RhymesTextTrial-Regular.otf") format("opentype");
     font-weight: normal;
     font-style: normal;
 }
